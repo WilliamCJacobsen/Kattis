@@ -1,0 +1,7 @@
+[package]
+name = "kitten_on_a_tree"
+version = "0.1.0"
+authors = ["WilliamCJacobsen <williacj@stud.ntnu.no>"]
+edition = "2018"
+
+[dependencies]
