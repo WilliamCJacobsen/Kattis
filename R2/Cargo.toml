@@ -1,7 +1,0 @@
-[package]
-name = "R2"
-version = "0.1.0"
-authors = ["WilliamCJacobsen <williacj@stud.ntnu.no>"]
-edition = "2018"
-
-[dependencies]
